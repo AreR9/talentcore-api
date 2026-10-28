@@ -1,0 +1,5 @@
+_pychache_/
+*.pyc
+talentcore.db
+.pytest_cache/
+.env
